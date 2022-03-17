@@ -26,13 +26,13 @@
   color: white;
 }
 
-.globe > * {
+.main > * {
   margin: 1rem 10rem;
   padding: 1rem;
   background: rgba(0.6, 0.6, 0.6, 0.4);
   border-radius: 5px;
 }
 
-.globe > *:first-child {
+.main > *:first-child {
   margin-top: 5rem;
 }
