@@ -29,10 +29,20 @@
 .main > * {
   margin: 1rem 10rem;
   padding: 1rem;
-  background: rgba(0.6, 0.6, 0.6, 0.4);
+  background: rgba(0, 0, 0, 0.4);
   border-radius: 5px;
 }
 
 .main > *:first-child {
   margin-top: 5rem;
+}
+
+.loc-error {
+  background: rgba(200, 0, 0, 0.4);
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.loc-error > p {
+  margin-bottom: 0;
 }
