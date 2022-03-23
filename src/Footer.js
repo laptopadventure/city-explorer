@@ -4,7 +4,7 @@ class Footer extends React.Component {
   render() {
     return (
       <div className="footer">
-        Footer
+        Created by HT
       </div>
     );
   }
