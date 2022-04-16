@@ -16,9 +16,8 @@
 }
 
 .nav {
-  position: fixed;
   width: 100vw;
-  background-color: rgb(3, 1, 29);
+  background-color: rgb(8, 4, 63);
 }
 
 .nav > * {
@@ -29,23 +28,59 @@
   color: white;
 }
 
-.main > * {
-  margin: 1rem 10rem;
+.spacebox {
+  margin: 1rem;
   padding: 1rem;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0, 0.705);
   border-radius: 5px;
 }
 
-.main > *:first-child {
-  margin-top: 5rem;
-}
-
 .loc-error {
-  background: rgba(200, 0, 0, 0.4);
+  background: rgba(238, 0, 0, 0.664);
   font-size: 20px;
   font-weight: bold;
 }
 
 .loc-error > p {
   margin-bottom: 0;
+}
+
+.horizontal-flex {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.day-forecast {
+  color: black;
+  padding: 0.25rem;
+  margin: 0.25rem;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 0.897);
+}
+
+.movie {
+  display: flex;
+  justify-content: space-between;
+  color: black;
+  padding: 0.25rem;
+  margin: 0.25rem;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 0.897);
+}
+
+.examinable {
+  transition: all 0.5s ease-in-out;
+}
+
+.examinable:hover {
+  background-color: rgba(195, 195, 195, 0.897);
+  cursor: pointer;
+  transform: scale(1.2);
+}
+
+.poster {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
