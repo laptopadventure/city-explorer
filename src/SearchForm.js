@@ -7,7 +7,7 @@ class SearchForm extends React.Component {
     return (
       <Form className="spessform" onSubmit={event => this.props.queryLocation(event)}>
         <Form.Group className="mb-3" controlId="locationSearch">
-          <Form.Label>Search for a place you'd like to visit!</Form.Label>
+          Search for a place you'd like to visit!
           <Form.Control onChange={event => this.props.setInput(event.target.value)} type="text" placeholder="Seattle" />
         </Form.Group>
         <Button variant="primary" type="submit">
