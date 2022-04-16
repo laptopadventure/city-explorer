@@ -25,6 +25,16 @@ Libraries: React, Bootstrap, Axios
 
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
 
+Name of feature: Modularize Frontend
+
+Estimate of time needed to complete: 30mins
+
+Start time: 2:47am
+
+Finish time: 2:47am
+
+Actual time needed to complete: Genuinely none, because I somehow already had this done...?
+
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 
