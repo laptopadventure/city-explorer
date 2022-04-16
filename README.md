@@ -21,9 +21,16 @@ Libraries: React, Bootstrap, Axios
 
 
 ## Change Log
-<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
-01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+Name of feature: Weather and Movies
+
+Estimate of time needed to complete: 2 hours?
+
+Start time: I honestly have no idea, I'm sorry!
+
+Finish time: I honestly have no idea, I'm sorry!
+
+Actual time needed to complete: It's been a few weeks, but combined this probably took no more than four hours. It was tough stuff.
 
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
@@ -31,3 +38,4 @@ Libraries: React, Bootstrap, Axios
 Resources used:
 MDN Web Docs
 W3Schools
+
