@@ -32,6 +32,16 @@ Finish time: I honestly have no idea, I'm sorry!
 
 Actual time needed to complete: It's been a few weeks, but combined this probably took no more than four hours. It was tough stuff.
 
+Name of feature: Modularize Frontend
+
+Estimate of time needed to complete: 30mins
+
+Start time: 2:47am
+
+Finish time: 2:47am
+
+Actual time needed to complete: Genuinely none, because I somehow already had this done...?
+
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 
